@@ -14,3 +14,5 @@
 
 ⚡ Fun fact: I like playing the acoustic guitar 🎸 
 
+📚 Programming language I know: C Python Java 
+
