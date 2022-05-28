@@ -12,7 +12,7 @@
 
 📫 How to reach me: rockytam4869@gmail.com
 
-⚡ Fun fact: I like playing the acoustic guitar 🎸 
+⚡ Fun fact: I play the acoustic guitar 🎸 
 
-📚 Programming language I know: C Python Java 
+📚 Programming language I know: Frontend (HTML CSS JavaScript) + Backend (C Python Java) 
 
