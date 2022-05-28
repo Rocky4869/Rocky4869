@@ -10,7 +10,7 @@
 
 💬 Ask me about food 🍲 
 
-📫 How to reach me: In school
+📫 How to reach me: rockytam4869@gmail.com
 
 ⚡ Fun fact: I like playing the acoustic guitar 🎸 
 
