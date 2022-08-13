@@ -4,7 +4,7 @@
 
 🔭 I’m currently studying in CUHK 
 
-🌱 I’m currently learning Data Structures 
+🌱 I’m currently learning Frontend stuff
 
 🤔 I’m looking for help with programming
 
