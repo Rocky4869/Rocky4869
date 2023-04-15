@@ -4,7 +4,7 @@
 
 🔭 I’m currently studying in CUHK 
 
-🌱 I’m currently learning Frontend stuff
+🌱 I’m currently doing meditation
 
 🤔 I’m looking for help with programming
 
@@ -12,7 +12,6 @@
 
 📫 How to reach me: rockytam4869@gmail.com
 
-⚡ Fun fact: I play the acoustic guitar 🎸 
-
-📚 Programming language I know: Frontend (HTML CSS JavaScript) + Backend (C Python Java) 
+⚡ Fun fact: 776861742072207520646f696e67207769746820796f7572206c696665
+ 
 
